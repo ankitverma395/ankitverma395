@@ -50,16 +50,17 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitverma395&show_icons=true&theme=radical" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma395&layout=compact&theme=radical" height="180em"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitverma395&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma395&layout=compact&theme=github_dark&hide_border=true&border_radius=15"/>
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitverma395&theme=radical&hide_border=true"/>
+</p>
 ---
 
 # 🔥 GitHub Streak
