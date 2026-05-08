@@ -49,18 +49,20 @@
 </p>
 
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ankitverma395&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    height="180em" 
-  />
+  <img src="https://streak-stats.demolab.com?user=ankitverma395&theme=tokyonight&hide_border=true" />
+</p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma395&layout=compact&theme=tokyonight&cache_seconds=1800" 
-    height="180em" 
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitverma395&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitverma395&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitverma395&theme=tokyonight" />
 </p>
 
 ---
