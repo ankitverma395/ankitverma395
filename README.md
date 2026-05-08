@@ -141,6 +141,53 @@
 </div>
 
 ---
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+# 🚀 About Me
+
+```js
+const ankit = {
+    code: ["JavaScript", "Python", "C++"],
+    technologies: {
+        frontend: ["React", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "MySQL"]
+    },
+    currentFocus: "Full Stack Web Development",
+};
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 # 💡 Quote
 
