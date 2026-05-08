@@ -49,15 +49,15 @@
 </p>
 
 ---
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ankitverma395&show_icons=true&theme=radical" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitverma395&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma395&layout=compact&theme=radical" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma395&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+</p>
 
 ---
 
